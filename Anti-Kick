@@ -1,3 +1,6 @@
+--IhateFortnitecuziambad was here
+--it only rejoin when your kicked but i will made one who is better soon
+
 local TeleportService = game:GetService("TeleportService")
 local ClientReplicator = game:GetService("NetworkClient").ClientReplicator
 local CurrentServer = game["JobId"]
